@@ -3,11 +3,11 @@
 > vite
 
 
-  VITE v5.4.20  ready in 272 ms
+  VITE v5.4.20  ready in 268 ms
 
   ➜  Local:   http://localhost:3000/
   ➜  Network: http://172.20.0.137:3000/
-6:28:07 AM [vite] warning: The character ">" is not valid inside a JSX element
+6:36:00 AM [vite] warning: The character ">" is not valid inside a JSX element
 281|      <Card title="4. Recommended Action Steps">
 282|        <ul className="list-disc pl-5 text-sky-200/90 text-sm space-y-2">
 283|          <li>Freeze refunds > ₹5,000 for 24 hours</li>
